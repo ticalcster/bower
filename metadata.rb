@@ -1,0 +1,10 @@
+name             'bower'
+maintainer       'Kevin Clark'
+maintainer_email 'ticalcster@gmail.com'
+license          'all_rights'
+description      'Installs/Configures bower'
+long_description 'Installs/Configures bower'
+version          '0.1.0'
+
+depends 'nodejs'
+depends 'git'
